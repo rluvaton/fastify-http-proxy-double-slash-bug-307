@@ -1,0 +1,20 @@
+{
+  "name": "fastify-http-proxy-double-slash-bug-307",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js --test"
+  },
+  "keywords": [],
+  "author": "Raz Luvaton",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/http-proxy": "^9.2.0",
+    "fastify": "^4.17.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.5"
+  }
+}
